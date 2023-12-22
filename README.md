@@ -1,0 +1,2 @@
+# SecondMonthHomework
+Farrukh ashirmatov homework
