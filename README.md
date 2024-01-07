@@ -2,3 +2,47 @@
 
 # 1. ![изображение](https://github.com/Farrukh0023/SecondMonthHomework/assets/152394089/21823740-37c6-4e30-b52e-64d04f3d54d2)  2.![изображение](https://github.com/Farrukh0023/SecondMonthHomework/assets/152394089/85ba37e1-e423-4016-a5b9-fd5d70800e65)
 
+# AIMBOT
+
+    Bind
+    
+    Bone
+    
+    Draw field of view
+    
+    Crosshair lock
+    
+    Invisible
+    
+    Draw Snap Line
+    
+    line of sight
+    
+    Smooth
+
+
+# VISUALIZATION
+
+    ESP player
+    
+    Style [2D, Angle]
+    
+    Health panel
+    
+    Nickname
+   
+    Distance
+    
+    Skeleton
+    
+    Binding
+    
+    Filled
+   
+    Head
+
+
+MISCELLANEOUS
+
+    No recoil
+
