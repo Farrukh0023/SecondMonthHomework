@@ -4,45 +4,45 @@
 
 # AIMBOT
 
-    Bind
+Bind
     
-    Bone
+Bone
     
-    Draw field of view
+Draw field of view
     
-    Crosshair lock
+Crosshair lock
     
-    Invisible
+Invisible
     
-    Draw Snap Line
+Draw Snap Line
     
-    line of sight
-    
-    Smooth
+line of sight
+
+Smooth
 
 
 # VISUALIZATION
 
-    ESP player
+ESP player
     
-    Style [2D, Angle]
+Style 2D, Angle
     
-    Health panel
+Health panel
     
-    Nickname
+Nickname
    
-    Distance
+Distance
     
-    Skeleton
+Skeleton
     
-    Binding
+Binding
     
-    Filled
+Filled
    
-    Head
+ Head
 
 
 MISCELLANEOUS
 
-    No recoil
+ No recoil
 
